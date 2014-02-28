@@ -3,10 +3,10 @@
 
     <string name="app_name">ScreenRecorder</string>
 
-    <string name="notification_recording_title">Tap to End Recording</string>
+    <string name="notification_recording_title">Touch to End Recording</string>
     <string name="notification_recording_text">Screen recording saved</string>
 
-    <string name="notification_recording_finished_title">Touch to View</string>
+    <string name="notification_recording_finished_title">Screen recording saved</string>
     <string name="notification_recording_finished_text">Touch to view %s</string>
 
     <string name="notification_recording_error_title">Screen recorder error</string>
